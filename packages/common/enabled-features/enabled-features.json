@@ -32,12 +32,12 @@
 
   "cli:disable_custom_profiles": true,
 
-  "dashboard_auth:sign_up": true,
-  "dashboard_auth:sign_in_with_github": true,
-  "dashboard_auth:sign_in_with_sso": true,
+  "dashboard_auth:sign_up": false,
+  "dashboard_auth:sign_in_with_github": false,
+  "dashboard_auth:sign_in_with_sso": false,
   "dashboard_auth:sign_in_with_email": true,
-  "dashboard_auth:show_testimonial": true,
-  "dashboard_auth:show_tos": true,
+  "dashboard_auth:show_testimonial": false,
+  "dashboard_auth:show_tos": false,
 
   "database:replication": true,
   "database:roles": true,
